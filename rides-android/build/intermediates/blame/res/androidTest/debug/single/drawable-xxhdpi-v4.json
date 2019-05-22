@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/uber_logotype_black.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/bundles/default/res/drawable-xxhdpi-v4/uber_logotype_black.png"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\uber_logotype_black.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\uber_logotype_black.png"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\uber_logotype_white.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\uber_logotype_white.png"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-xxhdpi-v4\\uber_badge.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\bundles\\default\\res\\drawable-xxhdpi-v4\\uber_badge.png"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/uber_badge.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/bundles/default/res/drawable-xxhdpi-v4/uber_badge.png"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/build/intermediates/res/merged/androidTest/debug/drawable-xxhdpi-v4/uber_logotype_white.png",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/bundles/default/res/drawable-xxhdpi-v4/uber_logotype_white.png"
+    }
+]

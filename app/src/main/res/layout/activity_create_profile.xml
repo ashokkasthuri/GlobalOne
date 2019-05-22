@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightgreynew">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+
+    <RelativeLayout
+        android:id="@+id/layout_details"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/toolbar"
+        android:padding="10dp">
+
+
+        <EditText
+            android:id="@+id/edt_Fname"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/layout_border"
+            android:hint="First Name"
+            android:imeOptions="actionNext"
+            android:inputType="textCapWords"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+        <EditText
+            android:id="@+id/edt_Lname"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/edt_Fname"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layout_border"
+            android:hint="Last Name"
+            android:imeOptions="actionNext"
+            android:inputType="textCapWords"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+        <!--<EditText-->
+            <!--android:id="@+id/edt_email"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="50dp"-->
+            <!--android:layout_below="@+id/edt_Lname"-->
+            <!--android:layout_marginTop="10dp"-->
+            <!--android:background="@drawable/layout_border"-->
+            <!--android:hint="UUID@ust-global.com"-->
+            <!--android:imeOptions="actionNext"-->
+            <!--android:inputType="textEmailAddress"-->
+            <!--android:singleLine="true"-->
+            <!--android:textColor="@color/darkgreynew"-->
+            <!--android:textColorHint="@color/lightGrey"-->
+            <!--android:textCursorDrawable="@null"-->
+            <!--android:textSize="15dp" />-->
+
+        <EditText
+            android:id="@+id/edt_Number"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/edt_Lname"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layout_border"
+            android:hint="Mobile Number"
+            android:imeOptions="actionNext"
+            android:inputType="number"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+
+        <EditText
+            android:id="@+id/edt_UserId"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/edt_Number"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layout_border"
+            android:hint="UST ID"
+            android:imeOptions="actionNext"
+            android:inputType="textCapWords"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+
+        <EditText
+            android:id="@+id/edt_Pass"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/edt_UserId"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layout_border"
+            android:hint="Create Password"
+            android:imeOptions="actionNext"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+
+        <EditText
+            android:id="@+id/edt_ConfirmPass"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_below="@+id/edt_Pass"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/layout_border"
+            android:hint="Confirm Password"
+            android:imeOptions="actionDone"
+            android:inputType="textPassword"
+            android:singleLine="true"
+            android:textColor="@color/darkgreynew"
+            android:textColorHint="@color/lightGrey"
+            android:textCursorDrawable="@null"
+            android:textSize="15dp" />
+
+        <RelativeLayout
+            android:id="@+id/layout_button"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/edt_ConfirmPass"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:background="@color/red"
+            android:padding="10dp">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:id="@+id/img_submit"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerVertical="true"
+                    android:src="@drawable/img_submit" />
+
+                <TextView
+                    android:id="@+id/txt_submit"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="8dp"
+                    android:layout_toRightOf="@+id/img_submit"
+                    android:text="Submit"
+                    android:textColor="@color/white" />
+
+            </RelativeLayout>
+
+        </RelativeLayout>
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

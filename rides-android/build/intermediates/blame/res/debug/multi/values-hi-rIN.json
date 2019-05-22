@@ -1,0 +1,316 @@
+[
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 53,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 63,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endColumn": 63,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 69,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 69,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 112,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 112,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 104,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 104,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 68,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 68,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 52,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\bundles\\default\\res\\values-hi-rIN\\values-hi-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 57,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\rides-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1647,
+                        "endColumn": 57,
+                        "endOffset": 1700
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi-rIN/values-hi-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1592,
+                        "endColumn": 53,
+                        "endOffset": 1641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 109,
+                    "endColumn": 63,
+                    "endOffset": 168
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1706,
+                        "endColumn": 63,
+                        "endOffset": 1765
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 173,
+                    "endColumn": 69,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1521,
+                        "endColumn": 69,
+                        "endOffset": 1586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 243,
+                    "endColumn": 112,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1231,
+                        "endColumn": 112,
+                        "endOffset": 1339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 104,
+                    "endOffset": 456
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 104,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 461,
+                    "endColumn": 68,
+                    "endOffset": 525
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 68,
+                        "endOffset": 1515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 530,
+                    "endColumn": 52,
+                    "endOffset": 578
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/bundles/default/res/values-hi-rIN/values-hi-rIN.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 52,
+                        "endOffset": 103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 583,
+                    "endColumn": 57,
+                    "endOffset": 636
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/rides-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1647,
+                        "endColumn": 57,
+                        "endOffset": 1700
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,162 @@
+{
+  "Blogs": [
+    {
+      "_id": "595fa33c59d866f90287f807",
+      "Category": "Sports",
+      "CatgData": [
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://mms.businesswire.com/media/20140721005710/en/424771/5/Biden_-_Sajan.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.prathidhwani.org/wp-content/uploads/2014/04/UST2.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.ust-global.com/sites/default/files/sajan-with-minerva-tantaco-new-york-citys-chief-technology-officer.png",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "595fa12a59d866f90287f806",
+      "Category": "Flash",
+      "CatgData": [
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://mms.businesswire.com/media/20140721005710/en/424771/5/Biden_-_Sajan.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.prathidhwani.org/wp-content/uploads/2014/04/UST2.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.ust-global.com/sites/default/files/sajan-with-minerva-tantaco-new-york-citys-chief-technology-officer.png",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://cms.technopark.org/zcmspg/zupload/media/web_media/5363/1468230940252_ust.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "595fa4ee59d866f90287f808",
+      "Category": "Technology",
+      "CatgData": [
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://mms.businesswire.com/media/20140721005710/en/424771/5/Biden_-_Sajan.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.prathidhwani.org/wp-content/uploads/2014/04/UST2.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://cms.technopark.org/zcmspg/zupload/media/web_media/5363/1468230940252_ust.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        }
+      ],
+      "__v": 0
+    },
+    {
+      "_id": "595fa51859d866f90287f809",
+      "Category": "News Letter",
+      "CatgData": [
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://mms.businesswire.com/media/20140721005710/en/424771/5/Biden_-_Sajan.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://www.prathidhwani.org/wp-content/uploads/2014/04/UST2.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        },
+        {
+          "RegistrationLink": "http://www.ust-global.com/",
+          "Description": "Chennai Super Kings will begin their IPL 7 campaign against the Kings XI Punjab at the Sheikh Zayed Stadium in Abu Dhabi on April 18.",
+          "ImageURL": "http://cms.technopark.org/zcmspg/zupload/media/web_media/5363/1468230940252_ust.jpg",
+          "BlogD": 1499400403115,
+          "Date": "Fri Jul 07 2017 12:06:43",
+          "Subtitile": "App Demo",
+          "Title": "UST Global APP Demo",
+          "Priority": "1"
+        }
+      ],
+      "__v": 0
+    }
+  ]
+}

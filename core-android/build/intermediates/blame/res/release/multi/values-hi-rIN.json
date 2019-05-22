@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-hi-rIN/values-hi-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/values-hi-rIN/strings_localized.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1207,
+                        "endColumn": 52,
+                        "endOffset": 1255
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hi-rIN\\values-hi-rIN.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\values-hi-rIN\\strings_localized.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1207,
+                        "endColumn": 52,
+                        "endOffset": 1255
+                    }
+                }
+            }
+        ]
+    }
+]

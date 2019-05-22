@@ -1,0 +1,226 @@
+[
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_selector_white.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_selector_white.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_selector_white.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_selector_white.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_black.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_black.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_white.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_white.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_selector_black.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_selector_black.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_edit_text_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_btn_check_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_black_90.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_black_90.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_white_40.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_white_40.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_black_90.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_black_90.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_white_40.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_white_40.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_black.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_black.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\uber_button_background_white.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\src\\main\\res\\drawable\\uber_button_background_white.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/uber_button_background_selector_black.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/src/main/res/drawable/uber_button_background_selector_black.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/release/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/drawable/abc_dialog_material_background_dark.xml"
+    }
+]

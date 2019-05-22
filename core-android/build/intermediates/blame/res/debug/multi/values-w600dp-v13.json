@@ -1,0 +1,88 @@
+[
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 63,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\values-w600dp\\values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 54,
+                        "endOffset": 397
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w600dp-v13/values-w600dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/values-w600dp/values-w600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 283,
+                        "endColumn": 63,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 119,
+                    "endColumn": 54,
+                    "endOffset": 169
+                },
+                "from": {
+                    "file": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/values-w600dp/values-w600dp.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 54,
+                        "endOffset": 397
+                    }
+                }
+            }
+        ]
+    }
+]

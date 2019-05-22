@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "849191857386",
+    "firebase_url": "https://direct-glider-170207.firebaseio.com",
+    "project_id": "direct-glider-170207",
+    "storage_bucket": "direct-glider-170207.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849191857386:android:d585dd9e4358a459",
+        "android_client_info": {
+          "package_name": "com.internal.ustglobal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849191857386-9872qdh5n0h9aqfqodr5nhp0t6eivpjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_BlUbSR0d4nD4DdV-Vm-MYQlhHPy3J94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849191857386-9872qdh5n0h9aqfqodr5nhp0t6eivpjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

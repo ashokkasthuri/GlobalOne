@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/switch_thumb_material_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_search_url_text.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/core-android/build/intermediates/res/merged/androidTest/debug/color/abc_primary_text_material_light.xml",
+        "source": "/Users/ustinnovation/.android/build-cache/a53f7eb7886ad83d19a3d966ab0f60986df773f7/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/D:\\Git Projects\\Quintiles_QUMS-0003-01-00_git\\Repository\\AndroidRepo\\USTGlobalAndroid\\core-android\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "/Users/ustinnovation/Desktop/UST items/Code/USTGlobalAndroid/C:\\Users\\u57284\\.android\\build-cache\\b5d9b12fc01adce5f8d1702eb106a8367b6054f5\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    }
+]
